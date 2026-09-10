@@ -7,7 +7,3 @@ It is a simple Python-based project that uses a GPT-2 language model to complete
 - Sentence completion using GPT-2
 - CLI and optional Streamlit GUI
 - Customizable generation parameters
-
-## Installation
-```bash
-pip install -r requirements.txt
